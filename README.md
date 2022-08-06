@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on understanding stuff :')
+- 🔭 I’m currently working on understanding stuff
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on any cool project!
 - 📫 How to reach me: Twitter - @SukhwaniRishabh
