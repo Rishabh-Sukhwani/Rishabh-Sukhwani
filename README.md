@@ -7,12 +7,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishabh-Sukhwani&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishabh-Sukhwani&count_private=true&show_icons=true&theme=synthwave)
-
----
-
-🧰 Toolbox
-
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
-
----
